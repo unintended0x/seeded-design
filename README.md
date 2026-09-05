@@ -33,6 +33,6 @@ Ask for a page and leave the direction open:
 
 Each page below was built by this skill from a different seed — same instructions, completely different directions.
 
-| Neon grid | Warm editorial | Technical print |
-|---|---|---|
-| <img src="screenshots/neon-grid.png" alt="Dark brutalist landing page with neon green and magenta accents"><br>Dark grid background, solid + outline display type, acid green and magenta accents. | <img src="screenshots/warm-editorial.png" alt="Warm dark editorial landing page with serif display type"><br>Near-black brown, serif display with an italic accent, ochre highlights. | <img src="screenshots/technical-print.png" alt="Light paper-toned landing page styled like an engineering drawing"><br>Paper gray styled as an engineering drawing sheet, title block and mono annotations. |
+| Neon grid | Warm editorial |
+|---|---|
+| <img src="screenshots/neon-grid.png" alt="Dark brutalist landing page with neon green and magenta accents"><br>Dark grid background, solid + outline display type, acid green and magenta accents. | <img src="screenshots/warm-editorial.png" alt="Warm dark editorial landing page with serif display type"><br>Near-black brown, serif display with an italic accent, ochre highlights. |
